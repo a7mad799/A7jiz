@@ -37,7 +37,7 @@
             android:text="Full name:" />
 
         <EditText
-            android:id="@+id/phoneID2"
+            android:id="@+id/Full_name"
             android:layout_width="350dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
@@ -71,7 +71,7 @@
             android:text="Year of Birth" />
 
         <EditText
-            android:id="@+id/passwordID5"
+            android:id="@+id/year"
             android:layout_width="350dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
@@ -111,12 +111,28 @@
             android:gravity="center"
             android:inputType="textPassword" />
 
+        <EditText
+            android:id="@+id/edittext_code"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:gravity="center"
+             />
+
+        <Button
+            android:id="@+id/Sign_up"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Sign up"
+            android:onClick="Sign_up"/>
         <Button
             android:id="@+id/button"
             android:layout_width="350dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="Sign up" />
+            android:text="send code" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

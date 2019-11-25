@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636013535357",
+    "firebase_url": "https://a7jiz-bea1b.firebaseio.com",
+    "project_id": "a7jiz-bea1b",
+    "storage_bucket": "a7jiz-bea1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636013535357:android:16dc597d22bc0f6f3f1114",
+        "android_client_info": {
+          "package_name": "com.example.superbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636013535357-re36dsu2u5gqbcaor75gecb8hdqu6cga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.superbook",
+            "certificate_hash": "94cc9b7ffe5feb5625906d6d1b5867df4a7da611"
+          }
+        },
+        {
+          "client_id": "636013535357-altqe1eki3b3ahgo66pkcotla4m111bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaFYvzItPM7F_qKwmEMW0Csa2CEzroxMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636013535357-altqe1eki3b3ahgo66pkcotla4m111bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
